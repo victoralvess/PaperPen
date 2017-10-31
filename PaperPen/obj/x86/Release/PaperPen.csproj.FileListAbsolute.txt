@@ -1,0 +1,9 @@
+G:\PaperPen\PaperPen\bin\Release\PaperPen.exe
+G:\PaperPen\PaperPen\bin\Release\PaperPen.pdb
+G:\PaperPen\PaperPen\obj\x86\Release\PaperPen.csprojResolveAssemblyReference.cache
+G:\PaperPen\PaperPen\obj\x86\Release\PaperPen.AboutMe.resources
+G:\PaperPen\PaperPen\obj\x86\Release\PaperPen.PPMain.resources
+G:\PaperPen\PaperPen\obj\x86\Release\PaperPen.Properties.Resources.resources
+G:\PaperPen\PaperPen\obj\x86\Release\PaperPen.csproj.GenerateResource.Cache
+G:\PaperPen\PaperPen\obj\x86\Release\PaperPen.exe
+G:\PaperPen\PaperPen\obj\x86\Release\PaperPen.pdb
