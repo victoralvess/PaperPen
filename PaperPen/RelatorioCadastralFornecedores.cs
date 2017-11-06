@@ -54,6 +54,7 @@ namespace PaperPen
 
         private void printDocument_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
         {
+            bindingSource.MoveFirst();
             DataGridViewRow reg_grid;
             reg_grid = dataGridView.CurrentRow;
 
@@ -111,14 +112,17 @@ namespace PaperPen
                 registro += 1;
 
                 linha += 20;
+                
                 if (registro == fim - 1)
                 {
+                    
                     e.Graphics.DrawString("Total de Registros: " + registro, new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 1000, 745);
                     e.Graphics.DrawLine(new Pen(Color.Red, 3), 10, 760, 1100, 760);
                     e.Graphics.DrawString("Data: " + System.DateTime.Now.ToString("dd/MM/yyyy"), new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 50, 765);
-                    e.Graphics.DrawString("Pág: " + page, new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 1000, 765);
+                    e.Graphics.DrawString("Pág: " + page, new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 1000, 765); 
+                    page += 1;
                 }
-                page += 1;
+               
 
                 if ((page > 1) & (registro < fim))
                 {
@@ -127,10 +131,12 @@ namespace PaperPen
                 else
                 {
                     e.HasMorePages = false;
+                    page = 1;
                 }
             }
 
             registro = 0;
+            linha = 0;
         }
 
         private void Visualisar_Click(object sender, EventArgs e)

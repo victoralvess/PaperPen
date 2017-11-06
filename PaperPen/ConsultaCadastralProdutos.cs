@@ -124,7 +124,13 @@ namespace PaperPen
 
             e.Graphics.DrawString("CÓDIGO DO FORNECEDOR: " + linha.Cells["Cod_Fornecedor"].Value.ToString(), new System.Drawing.Font("Arial", 10, FontStyle.Bold), Brushes.Gray, 50, 270);
                         
+           
             e.Graphics.DrawLine(new Pen(Color.Red, 3), 50, 1100, 800, 1100);
+            e.Graphics.DrawString("Data: " + System.DateTime.Now.ToString("dd/MM/yyyy"), new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 550, 1125);
+            e.Graphics.DrawString("Pág: 1", new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 50, 1125);
+            /*e.Graphics.DrawLine(new Pen(Color.Red, 3), 10, 760, 1100, 760);
+            e.Graphics.DrawString("Data: " + System.DateTime.Now.ToString("dd/MM/yyyy"), new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 50, 765);
+            e.Graphics.DrawString("Pág: " + page, new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 1000, 765); */
         }
 
         private void Visualizar_Click(object sender, EventArgs e)

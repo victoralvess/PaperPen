@@ -58,3 +58,15 @@ G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.pdb
 E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.RelatorioCadastralFornecedores.resources
 E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralFornecedores.resources
 E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralProdutos.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\bin\Debug\PaperPen.exe
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\bin\Debug\PaperPen.pdb
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csprojResolveAssemblyReference.cache
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralFornecedores.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralProdutos.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.RelatorioCadastralFornecedores.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudFornecedores.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudProdutos.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.HomeScreen.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache

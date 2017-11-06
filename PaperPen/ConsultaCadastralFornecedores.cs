@@ -161,6 +161,8 @@ namespace PaperPen
             e.Graphics.DrawString("SITE: " + linha.Cells["Site"].Value.ToString(), new System.Drawing.Font("Arial", 10, FontStyle.Bold), Brushes.Gray, 50, 450);
 
             e.Graphics.DrawLine(new Pen(Color.Red, 3), 50, 1100, 800, 1100);
+            e.Graphics.DrawString("Data: " + System.DateTime.Now.ToString("dd/MM/yyyy"), new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 550, 1125);
+            e.Graphics.DrawString("Pág: 1", new System.Drawing.Font("Arial", 9, FontStyle.Bold), Brushes.Tomato, 50, 1125);
 
         }
 
