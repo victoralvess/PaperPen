@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ConsultaAnaliticaProdutos));
             this.Consultar = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.Nome = new System.Windows.Forms.Label();
@@ -37,7 +38,7 @@
             // 
             // Consultar
             // 
-            this.Consultar.Location = new System.Drawing.Point(116, 178);
+            this.Consultar.Location = new System.Drawing.Point(11, 307);
             this.Consultar.Name = "Consultar";
             this.Consultar.Size = new System.Drawing.Size(75, 23);
             this.Consultar.TabIndex = 7;
@@ -47,9 +48,9 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(128, 17);
+            this.textBox1.Location = new System.Drawing.Point(11, 45);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(181, 20);
+            this.textBox1.Size = new System.Drawing.Size(815, 20);
             this.textBox1.TabIndex = 6;
             // 
             // Nome
@@ -66,18 +67,19 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(11, 71);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(298, 101);
+            this.dataGridView1.Size = new System.Drawing.Size(815, 230);
             this.dataGridView1.TabIndex = 4;
             // 
             // ConsultaAnaliticaProdutos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(323, 225);
+            this.ClientSize = new System.Drawing.Size(838, 342);
             this.Controls.Add(this.Consultar);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.Nome);
             this.Controls.Add(this.dataGridView1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ConsultaAnaliticaProdutos";
             this.Text = "ConsultaAnaliticaProdutos";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

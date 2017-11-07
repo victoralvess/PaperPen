@@ -27,7 +27,7 @@ namespace PaperPen
         private void carregar_grid()
         {
             dataGridView1.DataSource = null;
-            _query = "SELECT fornecedores.cod_fornecedor,Produtos.Descricao FROM  Produtos INNER JOIN fornecedores ON fornecedores.cod_fornecedor = Produtos.Cod_Fornecedor  WHERE fornecedores.cod_fornecedor like '" + textBox1.Text + "'";
+            _query = "SELECT fornecedores.cod_fornecedor,Produtos.Descricao FROM  Produtos INNER JOIN fornecedores ON fornecedores.cod_fornecedor = Produtos.Cod_Fornecedor  WHERE fornecedores.cod_fornecedor like '%" + textBox1.Text + "%'";
 
             OleDbCommand _dataCommand = new OleDbCommand(_query, conn);
 
@@ -41,7 +41,7 @@ namespace PaperPen
             }
             else
             {
-                MessageBox.Show("Código inválido lançadas !!!!", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBox.Show("SEM REGISTROS!!!", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
 
         }
