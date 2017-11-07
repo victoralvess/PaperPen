@@ -53,6 +53,18 @@
       <DependentUpon>AboutMe.cs</DependentUpon>
     </Compile>
     <Compile Include="Conexao.cs" />
+    <Compile Include="ConsultaAnaliticaFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaAnaliticaFornecedor.Designer.cs">
+      <DependentUpon>ConsultaAnaliticaFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaAnaliticaProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaAnaliticaProdutos.Designer.cs">
+      <DependentUpon>ConsultaAnaliticaProdutos.cs</DependentUpon>
+    </Compile>
     <Compile Include="ConsultaCadastralFornecedores.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +105,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AboutMe.resx">
       <DependentUpon>AboutMe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaAnaliticaFornecedor.resx">
+      <DependentUpon>ConsultaAnaliticaFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaAnaliticaProdutos.resx">
+      <DependentUpon>ConsultaAnaliticaProdutos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ConsultaCadastralFornecedores.resx">
       <DependentUpon>ConsultaCadastralFornecedores.cs</DependentUpon>

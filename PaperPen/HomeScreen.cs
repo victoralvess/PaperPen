@@ -122,5 +122,19 @@ namespace PaperPen
             form.MdiParent = this;
             form.Show();
         }
+
+        private void produtosToolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            ConsultaAnaliticaProdutos form = new ConsultaAnaliticaProdutos();
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        private void fornecedoresToolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            ConsultaAnaliticaFornecedor form = new ConsultaAnaliticaFornecedor();
+            form.MdiParent = this;
+            form.Show();
+        }
     }
 }
