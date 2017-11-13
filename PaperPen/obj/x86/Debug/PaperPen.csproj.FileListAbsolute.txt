@@ -1,0 +1,123 @@
+C:\Users\Victor\AppData\Local\Temporary Projects\PaperPen\bin\Debug\PaperPen.exe
+C:\Users\Victor\AppData\Local\Temporary Projects\PaperPen\bin\Debug\PaperPen.pdb
+C:\Users\Victor\AppData\Local\Temporary Projects\PaperPen\obj\x86\Debug\PaperPen.PPMain.resources
+C:\Users\Victor\AppData\Local\Temporary Projects\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+C:\Users\Victor\AppData\Local\Temporary Projects\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+C:\Users\Victor\AppData\Local\Temporary Projects\PaperPen\obj\x86\Debug\PaperPen.exe
+C:\Users\Victor\AppData\Local\Temporary Projects\PaperPen\obj\x86\Debug\PaperPen.pdb
+C:\Users\Victor\AppData\Local\Temporary Projects\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\PaperPen\PaperPen\obj\x86\Debug\PaperPen.exe
+C:\Users\Victor\documents\visual studio 2010\Projects\PaperPen\PaperPen\obj\x86\Debug\PaperPen.pdb
+C:\Users\Victor\documents\visual studio 2010\Projects\PaperPen\PaperPen\bin\Debug\PaperPen.exe
+C:\Users\Victor\documents\visual studio 2010\Projects\PaperPen\PaperPen\bin\Debug\PaperPen.pdb
+C:\Users\Victor\documents\visual studio 2010\Projects\PaperPen\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\PaperPen\PaperPen\obj\x86\Debug\PaperPen.PPMain.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\PaperPen\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+G:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.exe
+G:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.pdb
+G:\PaperPen\PaperPen\bin\Debug\PaperPen.exe
+G:\PaperPen\PaperPen\bin\Debug\PaperPen.pdb
+G:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+G:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.PPMain.resources
+G:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+G:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PaperPen\PaperPen\obj\x86\Debug\PaperPen.exe
+C:\Users\Victor\Desktop\PaperPen\PaperPen\obj\x86\Debug\PaperPen.pdb
+C:\Users\Victor\Desktop\PaperPen\PaperPen\bin\Debug\PaperPen.exe
+C:\Users\Victor\Desktop\PaperPen\PaperPen\bin\Debug\PaperPen.pdb
+C:\Users\Victor\Desktop\PaperPen\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+C:\Users\Victor\Desktop\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudFornecedores.resources
+C:\Users\Victor\Desktop\PaperPen\PaperPen\obj\x86\Debug\PaperPen.HomeScreen.resources
+C:\Users\Victor\Desktop\PaperPen\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+C:\Users\Victor\Desktop\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csprojResolveAssemblyReference.cache
+D:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.exe
+D:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.pdb
+D:\PaperPen\PaperPen\bin\Debug\PaperPen.exe
+D:\PaperPen\PaperPen\bin\Debug\PaperPen.pdb
+D:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csprojResolveAssemblyReference.cache
+D:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+D:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudFornecedores.resources
+D:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.HomeScreen.resources
+D:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+D:\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.exe
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.pdb
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csprojResolveAssemblyReference.cache
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudFornecedores.resources
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.HomeScreen.resources
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\bin\Debug\PaperPen.exe
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\bin\Debug\PaperPen.pdb
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudProdutos.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.exe
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.pdb
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.RelatorioCadastralFornecedores.resources
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralFornecedores.resources
+E:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralProdutos.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\bin\Debug\PaperPen.exe
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\bin\Debug\PaperPen.pdb
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csprojResolveAssemblyReference.cache
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralFornecedores.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralProdutos.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.RelatorioCadastralFornecedores.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudFornecedores.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudProdutos.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.HomeScreen.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+G:\VICTOR_PENDRIVE\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\bin\Debug\PaperPen.exe
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\bin\Debug\PaperPen.pdb
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.ConsultaAnaliticaFornecedor.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralFornecedores.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralProdutos.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.RelatorioCadastralFornecedores.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.CrudFornecedores.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.CrudProdutos.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.HomeScreen.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.csproj.CoreCompileInputs.cache
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.exe
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.pdb
+C:\Users\Reginaldo\Desktop\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.ConsultaAnaliticaProdutos.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.exe
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.pdb
+G:\PaperPen-master\PaperPen\bin\Debug\PaperPen.exe
+G:\PaperPen-master\PaperPen\bin\Debug\PaperPen.pdb
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.csprojResolveAssemblyReference.cache
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.ConsultaAnaliticaFornecedor.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.ConsultaAnaliticaProdutos.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralFornecedores.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralProdutos.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.RelatorioCadastralFornecedores.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.CrudFornecedores.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.CrudProdutos.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.HomeScreen.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+G:\PaperPen-master\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.exe
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.pdb
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.AboutMe.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaAnaliticaFornecedor.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaAnaliticaProdutos.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralFornecedores.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.ConsultaCadastralProdutos.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.RelatorioCadastralFornecedores.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudFornecedores.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.CrudProdutos.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.HomeScreen.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.Properties.Resources.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.RelatorioCadastralProdutos.resources
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.csproj.GenerateResource.Cache
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\bin\Debug\PaperPen.exe
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\bin\Debug\PaperPen.pdb
+C:\Users\Victor\Downloads\PaperPen\PaperPen\PaperPen\obj\x86\Debug\PaperPen.RelatorioAnalitico.resources
